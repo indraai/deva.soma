@@ -57,14 +57,14 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.19.0"
+    "@indra.ai/deva": "^1.20.1"
   },
   "data": {
     "agent": {
       "id": "68764359152577216269",
       "key": "soma",
       "prompt": {
-        "emoji": "💧",
+        "emoji": "🌱",
         "text": "#soma",
         "colors": {
           "label": {
