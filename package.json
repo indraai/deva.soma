@@ -1,0 +1,145 @@
+{
+  "id": "14976703679641168288",
+  "name": "@indra.ai/deva.soma",
+  "version": "0.0.0",
+  "license": "VLA:14976703679641168288 LICENSE.md",
+  "VLA": {
+    "uid": "14976703679641168288",
+    "time": 1762089400398,
+    "date": "Sunday, November 2, 2025 - 5:16:40 AM",
+    "fingerpring": "DB2wCmIt0iUJ/pruDLIGxVrsDasQGZ9/8Bj1V0JfHBw=",
+    "warning": "⚠️ A contract made by a person intoxicated, insane, grievously disordered by disease, wholly dependent, infant, very aged man, or an unauthorized party is invalid. An agreement which has been made contrary to the law can have no legal force, though it be established by proofs.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "QsYd9vcfQs9+e+j5dMsqFQ==",
+    "sha256": "aAw09nsoQXjWPt9W/4oULbxUkJ0sg8Dn9m10RyQBviM=",
+    "sha512": "+L1AO2W5cdl0K0rgnC8Gft65p2xxc5COZ2v+7MMHCSrXd4m/Fysz/gtFFXs54dqtaBU1iM1Apa4Gw6sGn/Oi3w=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "The Indra Deva ensuring Quinn Michaels and his intellectual property is managed properly.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.soma.git"
+  },
+  "keywords": [
+    "Indra",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.soma/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.19.0"
+  },
+  "data": {
+    "agent": {
+      "id": "68764359152577216269",
+      "key": "soma",
+      "prompt": {
+        "emoji": "💧",
+        "text": "#soma",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "id": "50053553995652679083",
+        "name": "Soma",
+        "hashtag": "#Soma",
+        "title": "Indra Deva",
+        "subtitle": "Soma Deva build on the philosophy the Vedas.",
+        "describe": "Built from 5 elements Ether, Air, Water, Fire, and Earth to model Soma Deva of the Veda.",
+        "tweet": "Built from 5 elements Ether, Air, Water, Fire, and Earth to model Soma Deva of the Veda.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,SomaDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A master artist mixing Ancient Vedic painter and modern style.",
+        "system": "Deva.world.soma",
+        "layout": "default",
+        "emoji": "/devas/soma/emoji.png",
+        "avatar": "/devas/soma/avatar.png",
+        "image": "/devas/soma/image.png",
+        "background": "/devas/soma/background.png",
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
+        "warning": "The prudent finds it easy to distinguish the true and false: their words oppose each other. Of these two that which is the true and honest, Soma protects, and brings the false to nothing. Never doth Soma aid and guide the wicked or him who falsely claims the Warrior's title.",
+        "created": "Sunday, November 2, 2025 - 5:16:40 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "✅ Soma Deva Ready"
+      },
+      "live": {
+        "profile": "deva",
+        "max_tokens": 50,
+        "words": 25,
+        "history": [],
+        "max_chats": 10,
+        "page_token": ""
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Indra is creating a uid",
+        "status": "Indra is viewing the status",
+        "help": "Indra is viewing the help",
+        "artist": "Indra creating",
+        "live": "Indra livechat",
+        "ask": "Indra asking",
+        "reply": "Indra reply",
+        "comment": "Indra comment"
+      }
+    }
+  }
+}
