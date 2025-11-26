@@ -1,13 +1,13 @@
 # Vedic License Agreement
 
 **Version:** 1.4.1
-**VLA:** 14976703679641168288  
-**Effective:** Sunday, November 2, 2025 - 5:16:40 AM  
-**Owner:** Quinn A Michaels
+**VLA:** 53302689355641757463  
+**Effective:** Wednesday, November 26, 2025 - 10:01:29 AM   
+**Owner:** Quinn A Michaels   
 **Company:** Inside The Net, Inc.  
 **Email:** quinn@indra.ai  
 **Link:** https://indra.ai  
-**Copyright:** ©2025 Quinn A Michaels Inside The Net, Inc.; All rights reserved.
+**Copyright:** ©2000-2025 Quinn A Michaels; All rights reserved.
 
 This license agreement (“Agreement”) governs the use of the Soma Deva (“Software”). By accessing or using the Software, you agree to the terms and conditions set forth below. If you do not agree, you are prohibited from using the Software.
 
@@ -161,14 +161,12 @@ By using the Software, you acknowledge that you have read, understood, and agree
 
 ---
 
-::begin:license:vedic:uid:14976703679641168288  
-uid: 14976703679641168288  
-time: 1762089400398  
-date: Sunday, November 2, 2025 - 5:16:40 AM  
-fingerprint: DB2wCmIt0iUJ/pruDLIGxVrsDasQGZ9/8Bj1V0JfHBw=
-warning: ⚠️ A contract made by a person intoxicated, insane, grievously disordered by disease, wholly dependent, infant, very aged man, or an unauthorized party is invalid. An agreement which has been made contrary to the law can have no legal force, though it be established by proofs.  
-copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.  
-md5: QsYd9vcfQs9+e+j5dMsqFQ==  
-sha256: aAw09nsoQXjWPt9W/4oULbxUkJ0sg8Dn9m10RyQBviM=  
-sha512: +L1AO2W5cdl0K0rgnC8Gft65p2xxc5COZ2v+7MMHCSrXd4m/Fysz/gtFFXs54dqtaBU1iM1Apa4Gw6sGn/Oi3w==  
-::end:license:vedic:uid:14976703679641168288
+::begin:license:uid:53302689355641757463  
+uid: 53302689355641757463  
+time: 1764180089416  
+date: Wednesday, November 26, 2025 - 10:01:29 AM  
+warning: ⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.  
+license: 46220923248993739422  
+fingerprint: PuTI7zMKuTCCcPDJE/EhKZUFbDhr0cPzJz1sEIciqas=  
+copyright: Copyright ©2000-2025 Quinn A Michaels; All rights reserved.  
+::end:license:uid:53302689355641757463

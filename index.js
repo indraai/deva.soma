@@ -1,7 +1,9 @@
 "use strict";
 // Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:14976703679641168288 LICENSE.md
+// Distributed under VLA:53302689355641757463 LICENSE.md
+// Wednesday, November 26, 2025 - 10:01:29 AM
+
 // Soma Deva
 
 import Deva from '@indra.ai/deva';
@@ -28,7 +30,7 @@ const info = {
   copyright: pkg.copyright
 };
 
-const SOMA = new Deva({
+const SomaDeva = new Deva({
   info,
   agent,
   vars,
@@ -60,4 +62,4 @@ const SOMA = new Deva({
     return reject(err);
   },
 });
-export default SOMA
+export default SomaDeva

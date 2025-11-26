@@ -1,18 +1,16 @@
 {
-  "id": "14976703679641168288",
+  "id": "53302689355641757463",
   "name": "@indra.ai/deva.soma",
   "version": "0.6.0",
-  "license": "VLA:14976703679641168288 LICENSE.md",
+  "license": "VLA:53302689355641757463 LICENSE.md",
   "VLA": {
-    "uid": "14976703679641168288",
-    "time": 1762089400398,
-    "date": "Sunday, November 2, 2025 - 5:16:40 AM",
-    "fingerpring": "DB2wCmIt0iUJ/pruDLIGxVrsDasQGZ9/8Bj1V0JfHBw=",
-    "warning": "⚠️ A contract made by a person intoxicated, insane, grievously disordered by disease, wholly dependent, infant, very aged man, or an unauthorized party is invalid. An agreement which has been made contrary to the law can have no legal force, though it be established by proofs.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "QsYd9vcfQs9+e+j5dMsqFQ==",
-    "sha256": "aAw09nsoQXjWPt9W/4oULbxUkJ0sg8Dn9m10RyQBviM=",
-    "sha512": "+L1AO2W5cdl0K0rgnC8Gft65p2xxc5COZ2v+7MMHCSrXd4m/Fysz/gtFFXs54dqtaBU1iM1Apa4Gw6sGn/Oi3w=="
+    "uid": "53302689355641757463",
+    "time": 1764180089416,
+    "date": "Wednesday, November 26, 2025 - 10:01:29 AM",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "license": "46220923248993739422",
+    "fingerprint": "PuTI7zMKuTCCcPDJE/EhKZUFbDhr0cPzJz1sEIciqas=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -30,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
   "description": "The Indra Deva ensuring Quinn Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
@@ -49,7 +47,7 @@
     "Deva.world",
     "Quinn A Michaels",
     "Inside The Net, Inc.",
-    "Throwing Pigment",
+    "Throwing Pigment™",
     "bleuBrain"
   ],
   "bugs": {
@@ -57,7 +55,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.28.2"
   },
   "data": {
     "agent": {
@@ -82,7 +80,7 @@
       "profile": {
         "id": "50053553995652679083",
         "name": "Soma",
-        "hashtag": "#Soma",
+        "hashtag": "#SomaDeva",
         "title": "Indra Deva",
         "subtitle": "Soma Deva build on the philosophy the Vedas.",
         "describe": "Built from 5 elements Ether, Air, Water, Fire, and Earth to model Soma Deva of the Veda.",
@@ -100,9 +98,10 @@
         "background": "/devas/soma/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels. All rights reserved.",
         "warning": "The prudent finds it easy to distinguish the true and false: their words oppose each other. Of these two that which is the true and honest, Soma protects, and brings the false to nothing. Never doth Soma aid and guide the wicked or him who falsely claims the Warrior's title.",
-        "created": "Sunday, November 2, 2025 - 5:16:40 AM"
+        "created": "Sunday, November 2, 2025 - 5:16:40 AM",
+        "updated": "Wednesday, November 26, 2025 - 10:01:29 AM"
       }
     },
     "vars": {
@@ -114,7 +113,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "✅ Soma Deva Ready"
+        "ready": "🕉️ Soma Deva Ready"
       },
       "live": {
         "profile": "deva",

@@ -1,7 +1,8 @@
 "use strict";
 // Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:14976703679641168288 LICENSE.md
+// Distributed under VLA:53302689355641757463 LICENSE.md
+// Wednesday, November 26, 2025 - 10:01:29 AM
 
 export default {
   /**************
@@ -10,7 +11,7 @@ export default {
   describe: The global wall feature that installs with every agent
   ***************/
   async soma(packet) {
-    const indra = await this.methods.sign('indra', 'default', packet);
-    return indra;
+    const soma = await this.methods.sign('soma', 'default', packet);
+    return soma;
   },
 };

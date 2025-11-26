@@ -1,13 +1,15 @@
 "use strict";
 // Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:14976703679641168288 LICENSE.md
-// Indra Deva test file
+// Distributed under VLA:53302689355641757463 LICENSE.md
+// Wednesday, November 26, 2025 - 10:01:29 AM
+
+// Soma Deva
 
 const {expect} = require('chai')
 const SomaDeva = require('./index.js');
 
-describe(indra.me.name, () => {
+describe(SomaDeva.me.name, () => {
   beforeEach(() => {
     return SomaDeva.init()
   });
